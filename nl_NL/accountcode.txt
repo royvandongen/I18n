@@ -10,5 +10,5 @@ accountcode.not_found = Accountcodenummer niet gevonden.
 accountcode.search = Zoeken
 module.accountcode = Accountcodes
 menu.account_codes = Accountcodes
-accountcode.code.invalid = Customer code is invalid. Use only numbers and the "*" (asterisk) symbol.
-accountcode.duplicated_code = The provided code is already in use
+accountcode.code.invalid = Klantcode is ongeldig. Gebruik enkel cijfers en het "*" (asterisk) symbool.
+accountcode.duplicated_code = De opgegeven code is reeds in gebruik.

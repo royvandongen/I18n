@@ -3,15 +3,15 @@ blacklist.description = Omschrijving
 blacklist.description.tooltip = Korte omschrijving voor het nummer dat in de zwarte lijst moet worden opgenomen.
 blacklist.general = Algemeen
 blacklist.not_found = Zwarte lijst niet gevonden
-blacklist.number = Beller-id-nummer
+blacklist.number = Beller-id-nummer CID
 blacklist.number.tooltip = Nummer dat in de zwarte lijst moet worden opgenomen.
 blacklist.search = Zoeken
 menu.blacklist = Zwarte lijst
 module.blacklist = Zwarte lijst
-blacklist.numebr.invalid = Number to blacklist is invalid. <br>Must contain digits and "-", "_", ".", "!", "~", "*", " ' ", "(", ")", "&", "
-blacklist.destination = Destination
+blacklist.number.invalid = Nummer op zwarte lijst is ongeldig. <br>Dit moet bestaan uit cijfers en "-", "_", ".", "!", "~", "*", " ' ", "(", ")", "&", "
+blacklist.destination = Bestemming
 blacklist.destination.tooltip = 
-	Optional destination. If set, the caller with a CID Number that match with the configured above, will be redirected
-	to the configured destination. If not set, a message will be played instead
-blacklist.enabled = Enabled
-blacklist.enabled.tooltip = Enable/Disable this CID number from the blacklist
+	Optionele bestemming. Indien ingesteld, zal de beller met een CID nummer zoals hierboven geconfigureerd doorgestuurd worden
+	naar de geconfigureerde bestemming. indien er geen bestemming is opgegeven zal er een bericht gespeeld worden
+blacklist.enabled = Actief
+blacklist.enabled.tooltip = Activeer/Deactiveer dit CID nummer van de zwarte lijst
